@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Gofo","l":"Admin"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"Gofo","l":"Booking"},{"p":"Gofo","l":"EWallet"},{"p":"Gofo","l":"Login"},{"p":"Gofo","l":"Main"},{"p":"Gofo","l":"Player"},{"p":"Gofo","l":"Playground"},{"p":"Gofo","l":"PlaygroundOwner"},{"p":"Gofo","l":"SignUp"},{"p":"Gofo","l":"User"}]
